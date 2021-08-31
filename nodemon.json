@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "arvind2588",
+        "MONGO_PASSWORD": "12345",
+        "MONGO_DB": "hospital-graphql"
+    }
+}
